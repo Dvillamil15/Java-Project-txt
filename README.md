@@ -5,7 +5,7 @@
 - MERY PAOLA CAMACHO DUARTE
 - LUIS FELIPE NEIRA OLMOS
 - JENNIFFER TATIANA DUQUE ZAMORA
-- 
+- ANGEL DAVID VILLAMIL GALVIS
 
 Para el proyecto del Módulo, se espera que cada entrega se comparta mediante un hipervínculo a un repositorio, un programa que tome como entrada una serie de archivos 
 con información de vendedores. Habrá un archivo de texto plano por cada vendedor, el cual tendrá el siguiente formato (de una venta por línea):
