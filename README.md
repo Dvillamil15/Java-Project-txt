@@ -63,3 +63,4 @@ usuario.
 
 _El IDE a usar es Eclipse para Java Developers. La versión de Java a usar es la 8._
 
+Para poder correr de manera adecuada el proyecto, es necesario correr el archivo GenerateInfoFiles, al realizarlo se generaran archivos XT.TXT, posteriormente abres el archivo Main.Java, lo corres y se generan los dos archivos CSV, todos los vendedores, de a uno por línea. Al frente del nombre de cada vendedor, separado por punto y coma, debe estar la cantidad de dinero que recaudó según los archivos. El archivo debe estar ordenado por cantidad de dinero, de mayor a menor, de a un vendedor por línea. Es básicamente un archivo de reporte de ventas de los vendedores y la información de los productos vendidos por cantidad, ordenados en forma descendente. Deben ir el nombre y el precio, separados por punto y coma, y de a un producto por línea.
