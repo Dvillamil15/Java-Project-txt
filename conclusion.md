@@ -46,6 +46,10 @@ Se implementó la clase GenerateInfoFiles para crear archivos pseudoaleatorios d
 ### ✅ Generación de Datos Aleatorios
 - Usamos "Random" para simular datos realistas y probar el programa exhaustivamente.
 
+### ✅ Dificultades durante el proyecto
+- Se presentaron algunos problemas de logica; sin embargo, fueron superados sin mayor problema.
+- Al buscar documentación de otros proyectos para guiarnos, se dificulta ya que hay que entender el como lo hacen. Sin embargo, con el tiempo se familiariza y se entiende lo que se quiere hacer.
+
 ## 📙 Conclusión final
 Este proyecto no solo cumplió con los objetivos técnicos, sino que también fortaleció nuestras habilidades como programadores.
 Ahora tenemos unas bases más solidas para trabajar con:
